@@ -1,6 +1,6 @@
 # ⭐ C++ Pattern Programs
 
-This repository contains beginner-friendly C++ programs to print **star**, **number**, and **character** patterns using nested loops. It is a great resource for learning loop logic and building a strong foundation in C++ programming.
+This repository contains beginner-friendly C++ programs to print star, number, and character patterns using nested loops. It is a great resource for learning loop logic and building a strong foundation in C++ programming.
 
 ---
 
