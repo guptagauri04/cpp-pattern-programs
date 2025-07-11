@@ -24,10 +24,6 @@ cpp_projects/
 ├── .gitignore
 └── README.md
 
-markdown
-Copy
-Edit
-
 ---
 
 ## 🚀 How to Run
